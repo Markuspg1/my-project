@@ -94,3 +94,8 @@ azure:
 app:
   image: "your-docker-image"
   replicas: 3
+
+
+
+Feel free to modify the content to better suit your project’s specifics.
+
